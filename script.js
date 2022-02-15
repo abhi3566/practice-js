@@ -73,4 +73,4 @@ var nick = {
     name:"Abhi",
 };
 
-person.hello.call(nick ,"world")
+person.hello.call(nick ,"everyone")
